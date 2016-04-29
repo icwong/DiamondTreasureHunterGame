@@ -1,8 +1,6 @@
 # Cmpt 120, Spring 2015
 # "The Diamond Treasure Hunter"
 # Authors: Kevin Luong Ning, Jenny Lu, Ivan Wong
-# Last revision: April 8, 2015
-# Time spent: 24
 
 import random
 

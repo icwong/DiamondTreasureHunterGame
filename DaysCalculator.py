@@ -1,10 +1,4 @@
-###### Assignment 1
-###### Ivan Wong (icwong@sfu.ca)
-###### Jan 23, 2015
-###### Aprroximate number of hours: 5 hours
-
-###### DESCRIPTION
-###### This program will help calculate the how many days has passed between the two dates.
+###### DESCRIPTION: This program will help calculate the how many days has passed between the two dates.
 
 print "Please provide the first (earliest) date:" #FIRST DATE
 print

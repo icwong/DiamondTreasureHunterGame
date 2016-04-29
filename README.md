@@ -5,11 +5,12 @@ A simple, Python-based game using IDLE shell to keep track of the events and res
 <b> Contributions </b> 
 
 Kevin Luong Ning
+
 Jenny Liu
 _________________________________________________________________________________________________________________________________
 <b> Days Calculator </b>
 
-A calculator whicch outputs the number of days that has passed between two dates the user inputed.
+A calculator which outputs the number of days that has passed between two dates the user inputs.
 _________________________________________________________________________________________________________________________________
 <b> Lucky Number </b>
 
